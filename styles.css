@@ -20,12 +20,14 @@ html {
 }
 
 h1 {
+  margin: 0 auto;
   font-family: sans-serif;
   text-align: center;
   font-size: 10rem;
 }
 
 h2 {
+  margin: 0 auto;
   font-family: sans-serif;
   text-align: center;
   font-size: 6rem;
@@ -37,5 +39,5 @@ img {
   border-style: solid;
   border-width: 3px;
   border-color: #FFF;
-  box-shadow: 1rem 1rem 0.5rem #888;
+  box-shadow: 1rem 1rem 1.5rem #888;
 }
