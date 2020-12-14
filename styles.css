@@ -30,4 +30,5 @@ h2 {
 
 img {
   margin: 5rem auto;
+  max-width: 80vw;
 }
