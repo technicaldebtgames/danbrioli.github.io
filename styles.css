@@ -1,0 +1,32 @@
+html {
+  font-size: 62.5%;
+}
+
+.title {
+  margin: 0 auto;
+  width: 90vw;
+}
+
+.gallery {
+  margin: 0 auto;
+  width: 80vw;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+h1 {
+  font-family: sans-serif;
+  text-align: center;
+  font-size: 10rem;
+}
+
+h2 {
+  font-family: sans-serif;
+  text-align: center;
+  font-size: 7.5rem;
+}
+
+img {
+  margin: 5rem auto;
+}
